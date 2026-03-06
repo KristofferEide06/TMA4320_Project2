@@ -3,9 +3,10 @@
 This project aims to model transport of motorproteins as stochastic particle movements in 1D flashing ratchet potential.
 
 ## Authors
+
 - Frederik Alexander Ådlandsvik 
-- Elias Veines Jensen \n
-- Kristoffer Eide \n 
-- Samuel Vasshus \n 
+- Elias Veines Jensen 
+- Kristoffer Eide 
+- Samuel Vasshus 
 
 
