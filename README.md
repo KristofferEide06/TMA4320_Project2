@@ -9,4 +9,4 @@ This project aims to model transport of motorproteins as stochastic particle mov
 - Kristoffer Eide 
 - Samuel Vasshus 
 
-
+Spring 2026
